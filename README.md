@@ -19,4 +19,4 @@ HTML/CSS	70%	██████████████░░░░░░
 Rust	25%	█████░░░░░░░░░░░░░░
 ```
 
-- **Мой тг** [@nouvk](http://t.me/nouvk) | 🌐 **Мой сайтик:** [website](https://darkfimoz.github.io/adapter/)
+- **Мой тг** [@nouvk](http://t.me/nouvk) | **Мой сайтик:** [website](https://darkfimoz.github.io/adapter/)
