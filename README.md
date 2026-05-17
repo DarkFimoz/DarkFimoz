@@ -1,28 +1,22 @@
-```
-██████╗  █████╗ ██████╗ ██╗  ██╗███████╗██╗███╗   ███╗ ██████╗ ███████╗
-██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██║████╗ ████║██╔═══██╗╚══███╔╝
-██║  ██║███████║██████╔╝█████╔╝ █████╗  ██║██╔████╔██║██║   ██║  ███╔╝ 
-██║  ██║██╔══██║██╔══██╗██╔═██╗ ██╔══╝  ██║██║╚██╔╝██║██║   ██║ ███╔╝  
-██████╔╝██║  ██║██║  ██║██║  ██╗██║     ██║██║ ╚═╝ ██║╚██████╔╝███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
-```
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/45/19/56/45195640d3a86d086a7581ce272f3ee3.jpg" width="200" height="200" alt="Profile Photo">
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=github.com%2FDarkFimoz)](https://git.io/typing-svg)
+
 ---
 
-# 👋 Привет, я DarkFimoz!
+## О себе:
+Разработчик, который всё-ещё студент
 
-## 💻 О себе
-Разработчик, который всё-ещё студент. Слушаем и не осуждаем: Люблю VibeCoding
-
-## 🛠️ Технологии
+## Чутка шарю за:
 ```text
 Python	50%	██████████░░░░░░░░
 Java	30%	██████░░░░░░░░░░░░
 JavaScript	70%	██████████████░░░░░░
 HTML/CSS	70%	██████████████░░░░░░
+Rust	25%	█████░░░░░░░░░░░░░░
 ```
 
-## 📫 Связаться со мной
-- 💬 **Telegram:** [@nouvk](http://t.me/nouvk)
-- 🌐 **Website:** [adapter](https://darkfimoz.github.io/adapter/)
-- 🐙 **GitHub:** [DarkFimoz](https://github.com/DarkFimoz)
-- 📢 **Main Project:** [@motherhackrecode](http://motherhackrecode.t.me/)
+- **Мой тг** [@nouvk](http://t.me/nouvk) | 🌐 **Мой сайтик:** [website](https://darkfimoz.github.io/adapter/)
