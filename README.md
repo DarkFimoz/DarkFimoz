@@ -25,6 +25,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://tlgg.ru/@uwweq)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FIMOZOV_FUCK)
-[![My site](https://img.shields.io/badge/-My%20site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-site-url.com)
+[![My site](https://img.shields.io/badge/-My%20site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darkfimoz.github.io/DarkFimoz/)
 
 </div>
